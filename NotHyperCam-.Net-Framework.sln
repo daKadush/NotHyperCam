@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotHyperCam-.Net-Framework", "NotHyperCam-.Net-Framework\NotHyperCam-.Net-Framework.csproj", "{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Debug|x86.ActiveCfg = Debug|x86
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Debug|x86.Build.0 = Debug|x86
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Release|x86.ActiveCfg = Release|x86
+		{EF4AC99D-42A8-4E65-BC9D-0E3851B6FA54}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2362D20-D475-4D7A-8141-4647A6989A56}
+	EndGlobalSection
+EndGlobal
